@@ -1,4 +1,4 @@
-# 👗 Fashion Studio  
+# 🧥 Fashion Studio  
 **AI-Powered Fashion Design Assistant**
 
 Fashion Studio is an intelligent fashion design assistant that uses **Generative AI** to transform raw fashion ideas into refined concepts, realistic visuals, trend insights, cost estimates, and sustainability-aware outputs — all within a single, intuitive web application.
