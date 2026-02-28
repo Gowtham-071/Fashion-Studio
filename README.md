@@ -115,8 +115,4 @@ Fashion Studio demonstrates how artificial intelligence can function as a **crea
 
 ---
 
-## 🙏 Acknowledgement
-
-This project was developed as part of a capstone initiative exploring the real-world application of Generative AI in fashion design.
-
 **Thank you for exploring Fashion Studio.**
